@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Italian Beaches and Beauty
-publishedDate: 2020-06-10T16:02:46.329Z
+publishedDate: 2021-02-11T03:39:34.946Z
 description: The best Italian Beaches and sightseeing to visit
 featured: true
 img: ../../static/images/italianbeaches1.jpg
