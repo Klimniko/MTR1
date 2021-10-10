@@ -11,14 +11,14 @@ tags:
   - Italia
   - Beaches
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
   <o:PixelsPerInch>240</o:PixelsPerInch>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -639,9 +639,9 @@ tags:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ tags:
 	font-family:"Calibri",sans-serif;
 	mso-bidi-font-family:"Times New Roman";}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -686,7 +686,7 @@ The jagged coastline of Elba, an island off the coast of Tuscany, is dotted by m
 
 6) Sanremo 
 
-At the heart of the fabled Italian Riviera is Sanremo, made famous as a watering hole for royalty, nobility, the wealthy, and wannabes who gathered here in the early 20th century.Most are free and much less crowded than the Riviera beaches closer to Genoa, and they are connected by a 25-kilometer bicycle path created from the former seaside rail line.
+At the heart of the fabled Italian Riviera is Sanremo, made famous as a watering hole for royalty, nobility, the wealthy, and wannabes who gathered here in the early 20th century. Most are free and much less crowded than the Riviera beaches closer to Genoa, and they are connected by a 25-kilometer bicycle path created from the former seaside rail line.
 
 7) Ischia
 
@@ -702,14 +702,8 @@ Set below a dramatic rock on Sicily's northern coast, Cefalù neatly combines tw
 
 10) Rimini 
 
-What you see at Rimini is what you get.It's Italian beach resort at its most typical, and that's just the way the Italians love their Riviera del Sole. So pay up, flop down, and join the fun. While you are there, stop to see the surprising town of Rimini just inland, a busy Roman colony and port with a number of Roman sites.
+What you see at Rimini is what you get. It's an Italian beach resort at its most typical, and that's just the way the Italians love their Riviera del Sole. So pay up, flop down, and join the fun. While you are there, stop to see the surprising town of Rimini just inland, a busy Roman colony and port with a number of Roman sites.
 
-Read on for more
 
-http://www.italia.it/en/home.html
-
-https://www.yatra.com/international-tourism/italy
-
-https://www.holidify.com/country/italy/
 
 <!--EndFragment-->
