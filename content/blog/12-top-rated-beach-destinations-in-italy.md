@@ -2,7 +2,8 @@
 template: blog-post
 title: 12 Top-Rated Beach Destinations in Italy
 publishedDate: 2021-10-10T01:49:59.508Z
-description: 12 Top-Rated Beach Destinations in Italy
+description: Italy is not only famed for its culture, food, and history but also
+  for its beaches. Find out the best-rated Italian beaches for your next vacay.
 featured: false
 img: ../../static/images/costa-sud-and-costa-verde-sardinia.jpeg
 imgAlt: Costa Sud and Costa Verde, Sardinia
