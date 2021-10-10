@@ -2,7 +2,8 @@
 template: blog-post
 title: The world's most romantic honeymoon destinations
 publishedDate: 2021-10-10T01:55:52.991Z
-description: The world's most romantic honeymoon destinations
+description: Lana Del Rey has romanticized the concept of a honeymoon so well.
+  And for good. So now we may wonder what are the best places for it.
 featured: false
 img: ../../static/images/fiji.jpeg
 imgAlt: Fiji
