@@ -1,7 +1,7 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
+const siteName = "My Tropical Resorts";
+const siteShortName = "MTR";
 const siteUrl = "https://geek.sg/";
-const siteDescription = "Sample blog template";
+const siteDescription = "Discover The Most AAmazing Tropical Resorts";
 const siteKeyword = "";
 const siteLogo = "logo.png";
 const siteLogoFolder = `static/${siteLogo}`;
