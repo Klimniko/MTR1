@@ -2,7 +2,7 @@
  package = "netlify-plugin-rss"
   [plugins.inputs]
     # required configs, customize as needed
-    dirToScan = "/posts" # a subfolder to scan. "/" to scan all
+    dirToScan = "/content/blog" # a subfolder to scan. "/" to scan all
     authorName = "MTR"
     site_url = "https://mytropicalresorts.netlify.app/"
     title = "My Tropical Resorts RSS Feed"
