@@ -1,0 +1,15 @@
+[build]
+  command = "echo 'hi'"
+  publish = "demo/publishDir"
+
+[[plugins]]
+  package = "./index.js"
+  [plugins.inputs]
+    # required configs, customize as needed
+    dirToScan = "/posts" # a subfolder to scan. "/" to scan all
+    authorName = "MTR"
+    site_url = "https://mytropicalresorts.netlify.app/"
+    title = "My Tropical Resorts RSS Feed"
+    rssDescription = "mtr RSS Feed"
+    categories = ['Travel', 'Islands', 'Tropical']
+    publishDateSelector = ".postlist-date"
